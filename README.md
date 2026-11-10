@@ -5,7 +5,7 @@
 **Yan Cui** · [GitHub @Y237cui](https://github.com/Y237cui)  
 **My primary contributions:** Error analysis, interpretation of validation results, and technical report writing.
 
-> **About this repository:** This is my personal academic portfolio overview of a collaborative competition project. The prediction models, code, experiments, and submission are team work. The [original team repository](https://github.com/billchenziang33/toronto-home-price-prediction-2026) remains the source of truth for implementation and reproducibility.
+> **About this repository:** This is my personal academic portfolio overview of a collaborative competition project. The prediction models, code, experiments, and submission are team work. The [original team repository](https://github.com/billchenziang33/toronto-home-price-prediction-2026) remains the source of truth for implementation and reproducibility. A selected, attributed copy of the team's source files and reports is included in [`team_source/`](team_source/) for convenient inspection; it is **not a complete or independently runnable mirror**.
 
 ## Project overview
 
@@ -79,4 +79,16 @@ The source report suppresses community-level metrics for groups with fewer than 
 
 **Team:** Yan Cui, Jiayi Guan, Shengde Wang, and Ziang Chen (as listed in the team's report).
 
-This portfolio repository is **documentation-only** and does not represent an independent implementation of the team pipeline. The original repository's MIT license and copyright notice must be retained when redistributing its code.
+## Included team source snapshot
+
+The [`team_source/`](team_source/) directory includes selected files copied from the original team's public repository:
+
+- `run.py`, `data.py`, `features.py`, `models.py`, `submission_models.py`, `check_submission.py`: pipeline, feature processing, model, and validation utilities.
+- `requirements.txt`: Python dependencies.
+- `reports/validation_report.md`: retrospective validation and subgroup error analysis.
+- `report/report.tex`: team-authored report source (an earlier draft; figures and generated tables are not bundled).
+- `LICENSE`: the original project's MIT license and copyright statement.
+
+**Important:** This selected snapshot does not include all model assets, generated output files, figures, and other dependencies required by the original submission. **Do not use it as a replacement for the complete team repository**; for reproducible predictions and current results, use the original repo linked above. The report source and the latest README refer to different stages of the team's development; the final selected routes and metrics are those given in the latest original README.
+
+**Attribution:** The code and reports in `team_source/` are a copy of collaborative team material, not independent work authored solely by Yan Cui. The MIT license and original copyright notice are preserved in `team_source/LICENSE`. No model training or validation was executed as part of preparing this portfolio snapshot.
