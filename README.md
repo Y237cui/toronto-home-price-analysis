@@ -3,7 +3,7 @@
 **SSU Data Dash 2026 · University of Toronto · Collaborative team project**
 
 **Yan Cui** · [GitHub @Y237cui](https://github.com/Y237cui)  
-**My primary contributions:** Error analysis, interpretation of validation results, and technical report writing.
+**My primary contributions:** Training, Error analysis, interpretation of validation results, and technical report writing.
 
 > **About this repository:** This is my personal academic portfolio overview of a collaborative competition project. The prediction models, code, experiments, and submission are team work. The [original team repository](https://github.com/billchenziang33/toronto-home-price-prediction-2026) remains the source of truth for implementation and reproducibility. A selected, attributed copy of the team's source files and reports is included in [`team_source/`](team_source/) for convenient inspection; it is **not a complete or independently runnable mirror**.
 
