@@ -7,6 +7,16 @@
 
 > **About this repository:** This is my personal academic portfolio overview of a collaborative competition project. The prediction models, code, experiments, and submission are team work. The [original team repository](https://github.com/billchenziang33/toronto-home-price-prediction-2026) remains the source of truth for implementation and reproducibility. A selected, attributed copy of the team's source files and reports is included in [`team_source/`](team_source/) for convenient inspection; it is **not a complete or independently runnable mirror**.
 
+## Portfolio navigation
+
+Other selected work:
+
+- [Satellite Telemetry Anomaly Detection & Event-Level Evaluation](https://github.com/Y237cui/satellite-anomaly-detection-research)
+- [Data Pipeline Engineering — Internship Showcase](https://github.com/Y237cui/donkin-data-pipeline-showcase)
+- [Interactive NBA Career Analytics — R Shiny](https://github.com/Y237cui/nba-career-analytics-r-shiny)
+
+**Target roles:** Data Scientist · Statistical Modeling · Risk Analytics · Quantitative Analytics
+
 ## Project overview
 
 The SSU Data Dash 2026 challenge involved predicting residential sale prices from **synthetic Toronto-area housing data** in two settings:
